@@ -228,7 +228,7 @@ img{
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
-
+    justify-content: center;
 }
 .vantagem{
     max-width: 290px;

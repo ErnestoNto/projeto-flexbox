@@ -28,6 +28,9 @@
 }
 
 /* Estilos Gerais */
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: var(--ff-primary);
 }
